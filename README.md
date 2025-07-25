@@ -35,5 +35,5 @@
 ### 🌐 Connect With Me
 
 - 🔗 [LinkedIn](https://linkedin.com/in/chetanshirahatti)
-- 📧 Email: chetanpshi9@gmail.com *(replace with your real email)*
+- 📧 Email: chetanpshi9@gmail.com 
 
