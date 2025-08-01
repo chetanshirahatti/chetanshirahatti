@@ -26,8 +26,8 @@
 
 - **Languages/Frameworks:** Dart, Flutter  
 - **State Management:** GetX  
-- **Backend/Storage:** Firebase (Auth, Firestore), SQLite  
-- **Tools:** Android Studio, Emulator, Flutter CLI
+- **Backend/Storage:** Firebase (Auth, Firestore), SQfLite  
+- **Tools:** Android Studio, Emulator, Flutter CLI, VS Code
 
 ---
 
