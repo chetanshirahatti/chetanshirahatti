@@ -18,7 +18,7 @@
 
 - **Frontend:** HTML, CSS, JavaScript, Tailwind CSS, React.js  
 - **Backend:** Node.js, Express.js, REST APIs  
-- **Tools:** Git, GitHub, Postman, VS Code
+- **Tools:** Git, GitHub, Postman, VS Code, Figma
 
 ---
 
