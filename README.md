@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Chetan Shirahatti 👋</h1>
 
 <p align="center">
-  🚀 Flutter Developer | 💡 Web Developer
+  🚀 Flutter Developer | 💡 Web Developer | Java Developer
 </p>
 
 ---
