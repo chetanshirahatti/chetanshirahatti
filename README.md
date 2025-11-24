@@ -49,7 +49,7 @@
 - **Backend:** Spring Boot (MVC, CRUD, APIs), JDBC, Servlets, JSP  
 - **Databases:** MySQL, PostgreSQL  
 - **Build Tools:** Maven  
-- **Other:** API development, Authentication basics, Project architecture  
+- **Other:** API development, Authentication & Authorization, Project architecture MVC & MVVM  
 
 ---
 
